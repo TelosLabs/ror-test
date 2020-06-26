@@ -1,4 +1,4 @@
-# TODO_APP
+## TODO APP
 
 This a sample app designed for validating basic Ruby on Rails knowledge.
 
