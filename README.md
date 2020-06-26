@@ -2,7 +2,7 @@
 
 This a sample app designed for validating basic Ruby on Rails knowledge.
 
-The todo_app will allow you to keep track of your daily todo's. A Todo instance can have attributes such as `name`, `description` and `scheduled_for` date. However, there a few functionalities missing to provide a better user experience. Please complete the following requirements in the specified time.
+The todo_app is designed to help you to keep track of your daily todo's. A Todo instance can have attributes such as `name`, `description` and `scheduled_for` date. However, there a few functionalities missing to provide a better user experience. Please complete the following requirements in the specified time.
 
 1. Add an attribute to the Todos table called `scheduled_at` of type datetime.
 
